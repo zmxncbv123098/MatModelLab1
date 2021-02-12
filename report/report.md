@@ -1,16 +1,16 @@
+# Отчет по Лабораторной №1
+
 ---
 # Front matter
 lang: ru-RU
-title: "Шаблон отчёта по лабораторной работе"
-subtitle: "Простейший вариант"
-author: "Дмитрий Сергеевич Кулябов"
+title: "Лабораторная работа 1"
+subtitle: "git и markdown"
+author: "Бешкуров Михаил Борисович"
 
 # Formatting
 toc-title: "Содержание"
 toc: true # Table of contents
 toc_depth: 2
-lof: true # List of figures
-lot: true # List of tables
 fontsize: 12pt
 linestretch: 1.5
 papersize: a4paper
@@ -90,4 +90,8 @@ header-includes:
 # Выводы
 
 Освоил основные принципы работы с github и marldown. 
+
+### License
+
+Бешкуров Михаил Борисович НКНбд-01-18 
 
